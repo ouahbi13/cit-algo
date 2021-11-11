@@ -1,2 +1,2 @@
 # cit-algo
-You will find everything about the Algorithmics Cell here
+Welcome to CIT
