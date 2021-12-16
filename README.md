@@ -4,7 +4,9 @@ Welcome to CIT: Club Informatique et Telecom, National Institute of Posts and Te
 In this repository you will find everything related to the Algorithmic Cell, as well as different resources to learn/practice.
 
 ## Course Planning
-* The year's plan for our Algorithms and Data Structures Course *
+
+*The year's plan for our Algorithms and Data Structures Course*
+
 1. Time Complexity.
 2. Sorting and Searching Algorithms.
 3. C++ Crash Course.
