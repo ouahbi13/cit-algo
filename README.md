@@ -3,9 +3,6 @@ Welcome to CIT: Club Informatique et Telecom, National Institute of Posts and Te
 
 In this repository you will find everything related to the Algorithmic Cell, as well as different resources to learn/practice.
 
-![logo bleu cit](https://user-images.githubusercontent.com/70814339/146389065-8f9681fc-2355-4d84-8801-a2ca7aa0242b.png) ![logo inpt](https://user-images.githubusercontent.com/70814339/146389175-faf3e19a-079b-4f19-ad70-8063e7c44b96.png)
-
-
 
 ## Table of Contents
 1. [Course Planning](#course-planning)
