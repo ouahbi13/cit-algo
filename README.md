@@ -7,7 +7,7 @@ In this repository you will find everything related to the Algorithmic Cell, as 
 1. [Course Planning](#course-planning)
 2. [Websites](#websites)
 3. [Books](#books)
-4. [Youtube: Channels and Videos](#youtube:-channels-and-videos)
+4. [Youtube: Channels and Videos](#youtube-channels-and-videos)
 5. [Online Courses](#online-courses)
 6. [Cheat Sheets](#cheat-sheets)
 
@@ -54,7 +54,7 @@ In this repository you will find everything related to the Algorithmic Cell, as 
 
 *P.S: You can download these books from [here](https://b-ok.africa/). Just type the book's name in search.*
 
-## Youtube: Channels and Videos
+## Youtube Channels and Videos
 
 *Recommended channels to follow*
 
