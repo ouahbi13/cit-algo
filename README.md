@@ -4,12 +4,12 @@ Welcome to CIT: Club Informatique et Telecom, National Institute of Posts and Te
 In this repository you will find everything related to the Algorithmic Cell, as well as different resources to learn/practice.
 
 ## Table of Contents
-1. [Course Planning](#Course Planning)
-2. [Websites](#Websites)
-3. [Books](#Books)
-4. [Youtube: Channels and Videos](#Youtube: Channels and Videos)
-5. [Online Courses](#Online Courses)
-6. [Cheat Sheets](#Cheat Sheets)
+1. [Course Planning](#course-planning)
+2. [Websites](#websites)
+3. [Books](#books)
+4. [Youtube: Channels and Videos](#youtube:channels-and-videos)
+5. [Online Courses](#online-courses)
+6. [Cheat Sheets](#cheat-sheets)
 
 ## Course Planning
 
@@ -46,8 +46,8 @@ In this repository you will find everything related to the Algorithmic Cell, as 
 
 *A list of highly recommended and helpful books*
 
-* [Introduction to Algorithms]() - I personally recommend this book, it's a must read for every person who wants to improve his skills and knowledge in DSA.
-* [Grokking Algorithms]() - An illustrated book on Algorithms with practical examples.
+* [Introduction to Algorithms](#) - I personally recommend this book, it's a must read for every person who wants to improve his skills and knowledge in DSA.
+* [Grokking Algorithms](#) - An illustrated book on Algorithms with practical examples.
 * [Cracking the Coding Interview]() - Highly recommended!
 * [Competitive Programming Handbook]() - You can make it as your cheat book for CP Competitions.
 * [Competitive Programming 3: The New Lower Bound of Programming Contests]()
