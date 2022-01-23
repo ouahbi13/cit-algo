@@ -6,7 +6,7 @@ In this repository you will find everything related to the Algorithmic Cell, as 
 
 ## Table of Contents
 1. [Course Planning](#course-planning)
-2. [Projects](#projects)
+2. [Course Projects](#course-projects)
 3. [Websites](#websites)
 4. [Books](#books)
 5. [Youtube Channels and Videos](#youtube-channels-and-videos)
@@ -26,7 +26,7 @@ In this repository you will find everything related to the Algorithmic Cell, as 
 7. Dynamic Programming.
 8. Greedy Algorithms.
 
-## Projects
+## Course Projects
 
 *General advice: Learn by doing projects. Here are the projects that we did together throughout the course*
 
