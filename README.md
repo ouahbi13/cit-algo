@@ -6,11 +6,12 @@ In this repository you will find everything related to the Algorithmic Cell, as 
 
 ## Table of Contents
 1. [Course Planning](#course-planning)
-2. [Websites](#websites)
-3. [Books](#books)
-4. [Youtube Channels and Videos](#youtube-channels-and-videos)
-5. [Online Courses](#online-courses)
-6. [Cheat Sheets](#cheat-sheets)
+2. [Projects](#projects)
+3. [Websites](#websites)
+4. [Books](#books)
+5. [Youtube Channels and Videos](#youtube-channels-and-videos)
+6. [Online Courses](#online-courses)
+7. [Cheat Sheets](#cheat-sheets)
 
 ## Course Planning
 
@@ -24,6 +25,13 @@ In this repository you will find everything related to the Algorithmic Cell, as 
 6. Trees.
 7. Dynamic Programming.
 8. Greedy Algorithms.
+
+## Projects
+
+*General advice: Learn by doing projects. Here are the projects that we did together throughout the course*
+
+* [Sorting Algorithms Visualizer](https://github.com/ouahbi13/sorting-visualization) 
+
 
 ## Websites
 
