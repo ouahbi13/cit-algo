@@ -4,7 +4,9 @@
     Time Complexity: O(n^2)
 '''
 
+
 def selection_sort(arr):
+    swaps = 0
     n = len(arr)
     for i in range(n):
         min_index = i
@@ -12,7 +14,8 @@ def selection_sort(arr):
             if arr[j] < arr[min_index]:
                 min_index = j
         arr[i], arr[min_index] = arr[min_index], arr[i]
-    return arr
+        swaps += 1
+    return (arr, swaps)
 
-arr = [4, 0, 1, -6, 9]
+arr = [7, 15, 12, 3]
 print(selection_sort(arr))
